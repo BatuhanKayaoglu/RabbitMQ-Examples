@@ -57,4 +57,3 @@ To clone the project to your local environment:
 ```bash
 git clone https://github.com/BatuhanKayaoglu/RabbitMQ-Projects.git
 
-
