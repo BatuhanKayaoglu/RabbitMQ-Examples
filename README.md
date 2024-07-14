@@ -40,5 +40,20 @@ This folder demonstrates how to create a message publisher using an exchange in 
 
 - **Examples:**
   - Basic Publisher-Exchange configuration
-  - Publishing messages with different exchang
+  - Publishing messages with different exchange types
+
+## RabbitMQ-MassTransit
+
+This folder shows examples of integrating RabbitMQ with MassTransit. MassTransit is a .NET library used for working with messaging infrastructures.
+
+- **Examples:**
+  - Configuring RabbitMQ with MassTransit
+  - Sending and consuming messages
+
+## Installation and Usage
+
+To clone the project to your local environment:
+
+```bash
+git clone https://github.com/username/RabbitMQ-Example-Projects.git
 
