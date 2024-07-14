@@ -55,5 +55,6 @@ This folder shows examples of integrating RabbitMQ with MassTransit. MassTransit
 To clone the project to your local environment:
 
 ```bash
-git clone https://github.com/username/RabbitMQ-Example-Projects.git
+git clone https://github.com/BatuhanKayaoglu/RabbitMQ-Projects.git
+
 
